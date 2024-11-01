@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Alice Johnson",
+      "cost": 150,
+      "creditCard": true
+    },
+    {
+      "name": "Bob Smith",
+      "cost": 200,
+      "creditCard": false
+    },
+    {
+      "name": "Carol Williams",
+      "cost": 350,
+      "creditCard": true
+    },
+    {
+      "name": "David Brown",
+      "cost": 100,
+      "creditCard": false
+    },
+    {
+      "name": "Eve Davis",
+      "cost": 250,
+      "creditCard": true
+    }
+  ]
+  
